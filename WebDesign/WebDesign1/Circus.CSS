@@ -1,0 +1,48 @@
+body
+{
+background-color: rgb(5, 4, 24);
+}
+ul{
+    
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: red;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 1000px ;
+}
+.Header-main
+{
+    width: 200%;
+    height: 60px;
+    background-color: red;
+}
+h1
+{
+    margin: 0;
+    padding: 4px;
+    font-size: 100;
+    color: red;
+}
+h2
+{
+    font-size: 25px;
+    color: red;
+}
+section{background-color:white;}
+p{
+    color: black;
+    font-size: 175%;
+    margin: 2;
+    padding: 4px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+a{color: white;}
